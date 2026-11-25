@@ -47,3 +47,5 @@
 (앱 빌드 번호 1593690)
 
 일반판 웹 주소: https://twentywon.github.io/share/full/ (학생판은 https://twentywon.github.io/share/)
+
+새 게임: 주차 요원(손님 차를 몰아 주차하기), 금화 쟁탈전(둘이서 금화를 모아 성 채우기). (앱 빌드 번호 1593819)
