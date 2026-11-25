@@ -45,3 +45,5 @@
 
 낚시: 흔한 물고기는 금방, 큰 물고기는 오래(요동은 몇 번뿐). 슬롯 카: 깨진 트랙 수정, 컴퓨터도 가끔 코스 이탈. 최종 승리·패배 글자가 다른 곳을 눌러도 남음.
 (앱 빌드 번호 1593690)
+
+일반판 웹 주소: https://twentywon.github.io/share/full/ (학생판은 https://twentywon.github.io/share/)
